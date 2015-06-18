@@ -1,10 +1,10 @@
 {
-    "name": "judev/php-intervaltree",
+    "name": "dolfelt/php-intervaltree",
     "description": "Interval Tree implementation in PHP",
     "version": "2.0.2",
     "type": "library",
     "keywords": ["PHP", "Data Structures"],
-    "homepage": "https://github.com/judev/php-intervaltree",
+    "homepage": "https://github.com/dolfelt/php-intervaltree",
     "license": "MIT",
     "authors": [
         {
